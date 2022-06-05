@@ -4,7 +4,7 @@ import Card from "../UI/Card";
 
 
 
-function Expenses(props) {
+const Expenses = (props) => {
     // let expenseList = [];
     // console.log(props.expenses);
     // props.expenses.forEach(expense => {
